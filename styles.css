@@ -1,0 +1,67 @@
+/*
+========================
+Body
+========================
+*/
+
+#main {
+    background-color: rgb(245, 238, 238);
+    max-width: 100vw;
+    height: auto;
+    margin: 20px 10px;
+    border-radius: 5px;
+        
+}
+#title {
+    
+    background-color: transparent;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 0;
+}
+#title h1{
+    font-weight: 900;
+    font-size: 50px;
+    
+}
+#title h5 {
+    padding-top: 0%;
+    font-weight: 100;
+}
+
+#img-div {
+    background-color: white;
+    margin: 0 10px;
+}
+#img-caption {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#image {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+#tribute-info {
+    display: block;
+    margin: auto;
+    max-width: 35vw;
+}
+
+#tribute-info h3 {
+    text-align: center;
+}
+#tribute-info li {
+    text-align: justify;
+    padding-bottom: 20px;
+}
+
+#footer {
+    text-align: center;
+    padding: 20px 0;
+}
+
+
